@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">General Quiz</string>
+    <string name="heading1">general</string>
+    <string name="heading2">quiz</string>
+    <string name="q1"><b>Question 1 :</b></string>
+    <string name="q1_1">Which animal do you see?</string>
+    <string name="q1_option1">Elephant</string>
+    <string name="q1_option2">Grizzly Bear</string>
+    <string name="q1_option3">Wolf</string>
+    <string name="q1_option4">Panda</string>
+    <string name="q2"><b>Question 2 :</b></string>
+    <string name="q2_1">Which is the animal referred as the ship of the desert? </string>
+    <string name="q3"><b>Question 3 :</b></string>
+    <string name="q3_1">Which of the following are valid Hex-Code for color attribute in Android</string>
+    <string name="q3_option1">#rgb</string>
+    <string name="q3_option2">#rgbrgb</string>
+    <string name="q3_option3">#rrggbb</string>
+    <string name="q3_option4">#brg</string>
+    <string name="q4"><b>Question 4 :</b></string>
+    <string name="q4_1">Which of the following is the coldest location on Earth</string>
+    <string name="q4_option1">Africa</string>
+    <string name="q4_option2">Greenland</string>
+    <string name="q4_option3">Antarctica</string>
+    <string name="q4_option4">India</string>
+    <string name="q5"><b>Question 5 :</b></string>
+    <string name="q5_1">Is Sun the closest star to Earth?</string>
+    <string name="q5_option1">True</string>
+    <string name="q5_option2">False</string>
+    <string name="submit">submit</string>
+</resources>
